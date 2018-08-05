@@ -17,5 +17,5 @@
 <hr>
 # Bootstrap 4 Buttons
 
-![](https://github.com/barismeral/bootstrap-4/blob/master/img/buttons.PNG?raw=true)
+![](https://github.com/barismeral/bootstrap-4/blob/master/img/buttons.JPG?raw=true)
 
