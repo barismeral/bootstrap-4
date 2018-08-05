@@ -1,6 +1,4 @@
-# bootstrap-4
-## Bootstrap 4 Navbars
-
+# Bootstrap 4 Navbars
 ## Dark Navbar
 ![](https://github.com/barismeral/bootstrap-4/blob/master/img/drk.PNG?raw=true)
 
@@ -16,4 +14,8 @@
 ## Primary Navbar
 ![](https://github.com/barismeral/bootstrap-4/blob/master/img/pri.PNG?raw=true)
 
+<hr>
+# Bootstrap 4 Buttons
+
+![](https://github.com/barismeral/bootstrap-4/blob/master/img/buttons.PNG?raw=true)
 
