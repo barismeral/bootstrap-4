@@ -2,7 +2,7 @@
 ## Bootstrap 4 Navbars
 
 ## Dark Navbar
-[img](https://github.com/barismeral/bootstrap-4/blob/master/img/drk.PNG?raw=true)
+[img](img/drk.png)
 
 ## Danger Navbar
 [img](https://github.com/barismeral/bootstrap-4/blob/master/img/dg.PNG?raw=true)
